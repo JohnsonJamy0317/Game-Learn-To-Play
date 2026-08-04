@@ -1,27 +1,49 @@
+# Game Learn To Play
 
-# README for Remix: Game learn to play #
+## Overview
 
-This is the README file for the Remix: Game learn to play app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+**Game Learn To Play** is an interactive educational app designed to help players learn the fundamentals of fighting games. The goal of the project is to make learning fighting game concepts easier through tutorials, animations, dialogue, quizzes, and visual demonstrations.
 
-The files in this folder contain everything you need to run your app:
+This project was created collaboratively by me and my sister during high school. We wanted to build an app that could introduce new players to the mechanics and strategies behind fighting games such as Super Smash Bros., Dead or Alive, and Street Fighter.
 
-* `applab/applab.js` - This file contains the applab library, which has all the
-  javascript that applab uses to run your app.
+## Features
 
-* `applab/applab.css` - This file contains some default CSS styling for your app.
+* Interactive learning menus
+* Custom UI screens and animations
+* Tutorial lessons explaining fighting game concepts
+* Dialogue-based explanations
+* Quiz sections to test player knowledge
+* Visual demonstrations and gameplay examples
+* Custom sound effects and multimedia assets
 
-* `index.html` - This is the html file that you designed in applab using the
-  Design tab. It contains all the buttons, text inputs, and other controls for
-  your app. Go here to add additional controls to your app.
+## Technologies Used
 
-* `style.css` - This file defines the custom styling for each control in your
-  app that you specified under the Design tab. Go here to change the colors,
-  positions, dimensions, and other properties of your app's controls.
+* JavaScript
+* Code.org App Lab
+* HTML/CSS (Exported project structure)
 
-* `code.js` - This file has all the code you wrote for your app. Go here to add
-  new behavior to your app.
+## Project Goals
 
-* `assets` - This is a directory with all the asset files (pictures and sounds)
-  that you uploaded in applab.
+The goal of Game Learn To Play was to combine programming, game knowledge, and education to create a beginner-friendly experience for players who want to understand fighting games.
+
+## My Contributions
+
+* Developed interactive app functionality
+* Programmed user interactions and game logic
+* Helped design the user experience and learning flow
+* Organized tutorials and educational content
+
+## Collaboration
+
+Created in collaboration with my sister as a high school project focused on programming, creativity, and teaching others.
+
+## Screenshots
+
+(Add screenshots of the app here)
+
+## Future Improvements
+
+* Convert the project into a standalone web application
+* Add more fighting game tutorials
+* Improve animations and user interaction
+* Expand the learning system
